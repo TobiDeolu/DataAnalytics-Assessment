@@ -1,6 +1,6 @@
 # Data Analytics Assessment
 
-This repository contains SQL solutions for a Data Analyst proficiency assessment. Each task is addressed in its own file (`Assessment_Q1.sql` through `Assessment_Q4.sql`), with explanations and key assumptions outlined below.
+This repository contains SQL solutions for a Data Analyst proficiency assessment. Each task is addressed in its file (`Assessment_Q1.sql`, `Assessment_Q2.sql`, `Assessment_Q3.sql`, and `Assessment_Q4.sql`), with explanations and key assumptions outlined below.
 
 ---
 
